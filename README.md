@@ -6,13 +6,13 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
 
 | *Python*   | *C#*         | *Golang*     | *Git/GitHub* | *Java*       | *Microsoft Office* | *SQL*        |
 |----------|------------|------------|------------|------------|------------------|------------|
-| ![5968350](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![6132221](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![download](https://github.com/user-attachments/assets/7fd9eb17-95ce-49b9-a49a-6ccfeafa54ab) | ![15466163](https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323) | ![5968282](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![888867](https://github.com/user-attachments/assets/735e6519-883a-405d-8f32-dfbd6a9d5277) | ![337953](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |
+| ![5968350](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![6132221](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![download](https://github.com/user-attachments/assets/7fd9eb17-95ce-49b9-a49a-6ccfeafa54ab) | ![15466163](https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323) | ![5968282](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![888867](https://github.com/user-attachments/assets/735e6519-883a-405d-8f32-dfbd6a9d5277) | ![337953](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |  
 
 ## Personal Skills
 
-| *Adaptability*   | *Self-Motivation*         | *Work Ethic*     | *Teamwork* | *Reliability*       | *Proactivity* |
-|----------|------------|------------|------------|------------|------------------|
-| ![6159870](https://github.com/user-attachments/assets/8dba64b0-81ca-4f99-86bf-94ccfcc8471c) | ![11316001](https://github.com/user-attachments/assets/9a7f267a-4565-47a0-91e4-21ca8236949d) | ![6604805](https://github.com/user-attachments/assets/c6269885-671f-42ca-9045-04335dda211c) | ![4859784](https://github.com/user-attachments/assets/61596eef-0823-481d-810f-3b035658ec76) | ![11125966](https://github.com/user-attachments/assets/194a6e9b-476e-4692-a2a7-24783865ce39) | ![3160778](https://github.com/user-attachments/assets/e40585e0-135d-4791-be80-928e4b325a64) |  
+| *Adaptability*   | *Self-Motivation*         | *Work Ethic*     | *Teamwork* | *Reliability*       | *Proactivity* | *Leadership* |
+|----------|------------|------------|------------|------------|------------------|---|
+| ![6159870](https://github.com/user-attachments/assets/8dba64b0-81ca-4f99-86bf-94ccfcc8471c) | ![11316001](https://github.com/user-attachments/assets/9a7f267a-4565-47a0-91e4-21ca8236949d) | ![6604805](https://github.com/user-attachments/assets/c6269885-671f-42ca-9045-04335dda211c) | ![4859784](https://github.com/user-attachments/assets/61596eef-0823-481d-810f-3b035658ec76) | ![11125966](https://github.com/user-attachments/assets/194a6e9b-476e-4692-a2a7-24783865ce39) | ![3160778](https://github.com/user-attachments/assets/e40585e0-135d-4791-be80-928e4b325a64) | ![1478909](https://github.com/user-attachments/assets/12a0cfcc-4d8a-42fe-8a30-638d7a1834d6) |  
 
 ## Business Skills
 
