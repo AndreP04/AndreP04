@@ -8,9 +8,9 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
 
 <div align="center">
 
-| *Python*   | *C#*         | *Golang*     | *Git/GitHub* | *Java*       | *Microsoft Office* | *SQL*        |
-|----------|------------|------------|------------|------------|------------------|------------|
-| ![5968350](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![6132221](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![download](https://github.com/user-attachments/assets/7fd9eb17-95ce-49b9-a49a-6ccfeafa54ab) | ![15466163](https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323) | ![5968282](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![888867](https://github.com/user-attachments/assets/735e6519-883a-405d-8f32-dfbd6a9d5277) | ![337953](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |  
+| *Python*   | *C#*         | *HTML*   | *CSS*  | *Git/GitHub* | *Java*       | *Microsoft Office* | *SQL*        |
+|----------|------------|------------|--------------|------------|------------|------------------|------------|
+| ![5968350](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![6132221](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![5968267](https://github.com/user-attachments/assets/6dc9c905-386c-46f2-8133-272d97f8cffe) | ![11516361](https://github.com/user-attachments/assets/f8842de9-1306-494b-a9c0-91cbdb37b6d4) | ![15466163](https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323) | ![5968282](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![888867](https://github.com/user-attachments/assets/735e6519-883a-405d-8f32-dfbd6a9d5277) | ![337953](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |  
 
 </div>  
 
