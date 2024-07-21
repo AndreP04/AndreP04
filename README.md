@@ -1,6 +1,6 @@
 ![Header](./github-header.png)
 
-# About Me:
+## About Me:
 I am from Potchefstroom, South Africa. I am currently completing my final year of a BSc in Information Technology. I am an extremely hardworking and self-disciplined individual, striving to excel in what I do. I consider myself to be a friendly, trustworthy, and open-hearted person with excellent communication skills. I hold honesty, respect, and loyalty in high regard.  
 
 <br style="line-height: 3em;">
