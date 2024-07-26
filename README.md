@@ -21,7 +21,7 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
 
 <div align="center">
 
-| *Adaptability*   | *Self-Motivation*         | *Work Ethic*     | *Teamwork* | *Reliability*       | *Proactivity* | *Leadership* |
+| *Adaptability*   | *Self-Motivation* | *Work Ethic* | *Teamwork* | *Reliability*       | *Proactivity* | *Leadership* |
 |----------|------------|------------|------------|------------|------------------|---|
 | ![6159870](https://github.com/user-attachments/assets/8dba64b0-81ca-4f99-86bf-94ccfcc8471c) | ![11316001](https://github.com/user-attachments/assets/9a7f267a-4565-47a0-91e4-21ca8236949d) | ![6604805](https://github.com/user-attachments/assets/c6269885-671f-42ca-9045-04335dda211c) | ![4859784](https://github.com/user-attachments/assets/61596eef-0823-481d-810f-3b035658ec76) | ![11125966](https://github.com/user-attachments/assets/194a6e9b-476e-4692-a2a7-24783865ce39) | ![3160778](https://github.com/user-attachments/assets/e40585e0-135d-4791-be80-928e4b325a64) | ![1478909](https://github.com/user-attachments/assets/12a0cfcc-4d8a-42fe-8a30-638d7a1834d6) |
 
