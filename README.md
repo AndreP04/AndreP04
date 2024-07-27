@@ -25,7 +25,7 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
   
 ## Development Tools
 
-| *Git/Github*   | *Microsoft Office* |
+| *Git/Github*   | *Visual Studio* |
 |----------|--------|
 | <img src="https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323"> | <img src="" alt="Visual Studio"> |
 
