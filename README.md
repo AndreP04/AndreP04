@@ -23,11 +23,11 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
 
 <div align="center">
   
-## Other
+## Development Tools
 
 | *Git/Github*   | *Microsoft Office* |
 |----------|--------|
-| <img src="https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323"> | ![MicrosoftOffice](https://github.com/user-attachments/assets/735e6519-883a-405d-8f32-dfbd6a9d5277) |
+| <img src="https://github.com/user-attachments/assets/f3943f56-868e-43d7-a6d5-efd430fcf323"> | <img src="" alt="Visual Studio"> |
 
 </div> 
 
