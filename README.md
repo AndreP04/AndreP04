@@ -13,9 +13,9 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
   
 ## Languages
 
-| *Python*   | *C#*   | *HTML*   | *CSS*  | *Java* | *SQL*        |
-|----------|------------|------------|--------------|------------|------------|
-| ![Python](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![C#](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![HTML](https://github.com/user-attachments/assets/6dc9c905-386c-46f2-8133-272d97f8cffe) | ![CSS](https://github.com/user-attachments/assets/f8842de9-1306-494b-a9c0-91cbdb37b6d4) | ![Java](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![SQL](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |  
+| *Python*   | *C#*   | *Golang* | *HTML*   | *CSS*  | *Java* | *SQL*        |
+|----------|------------|--------|----------|--------------|------------|------------|
+| ![Python](https://github.com/user-attachments/assets/30a866fa-68e6-4c14-9ce0-fc091ba02837) | ![C#](https://github.com/user-attachments/assets/dbb611ba-1c13-4d08-9e44-891a6902d65b) | ![Golang](https://golang.org/lib/godoc/images/go-logo-blue.svg) | ![HTML](https://github.com/user-attachments/assets/6dc9c905-386c-46f2-8133-272d97f8cffe) | ![CSS](https://github.com/user-attachments/assets/f8842de9-1306-494b-a9c0-91cbdb37b6d4) | ![Java](https://github.com/user-attachments/assets/d193a005-5528-47e2-80d3-c356c86f684b) | ![SQL](https://github.com/user-attachments/assets/4646e2b4-4225-4636-a632-78a18603852d) |  
 
 </div>  
 
