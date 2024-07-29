@@ -52,7 +52,7 @@ I am from Potchefstroom, South Africa. I am currently completing my final year o
 ## Contact Me
 
 <pre>
-<code id="email-command">andrepret4@icloud.com</code>
+  <code id="email-command">andrepret4@icloud.com</code>
 </pre>
 
 </div>
