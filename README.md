@@ -53,7 +53,7 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 
 | *.NET*   |
 |----------|
-| <img src="Assets/dot-NET-FW.png" width=93.81 height=93.81> |
+| <img src="Assets/dot-NET-FW.png" width=160 height=93.81> |
 
 </div>   
 
