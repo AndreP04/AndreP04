@@ -65,7 +65,7 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 
 | *JavaScript*   | *Node.js* | *Flutter* | *MongoDB* |
 |----------|--------------|------------|---------|
-| <img src="Assets/git.png" width=93.81 height=93.81> | <img src="Assets/Visual Studio.jpeg" width=93.81 height=93.81> | <img src="Assets/vsCode.png" width=93.81 height=93.81> | <img src="Assets/github.png" width=93.81 height=93.81> |
+| <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/NodeJs.png" width=93.81 height=93.81> | <img src="Assets/Flutter.png" width=93.81 height=93.81> | <img src="Assets/github.png" width=93.81 height=93.81> |
 
 </div> 
 
