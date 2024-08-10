@@ -47,6 +47,8 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 
 </div> 
 
+<br style="line-height: 3em;">
+
 <div align="center">
   
 ## Frameworks
@@ -68,6 +70,8 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 | <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/NodeJs.png" width=93.81 height=93.81> | <img src="Assets/Flutter.png" width=93.81 height=93.81> | <img src="Assets/Mongo.png" width=93.81 height=93.81> |
 
 </div> 
+
+<br style="line-height: 3em;">
 
 <div align="center">
 
