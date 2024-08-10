@@ -41,7 +41,7 @@ Coding has always been a source of excitement for me, and I thrive on solving co
   
 ## Development Tools
 
-| *Git*   | *Visual Studio* | *VS Code* | Github |
+| *Git*   | *Visual Studio* | *VS Code* | *Github* |
 |----------|--------------|------------|---------|
 | <img src="Assets/git.png" width=93.81 height=93.81> | <img src="Assets/Visual Studio.jpeg" width=93.81 height=93.81> | <img src="Assets/vsCode.png" width=93.81 height=93.81> | <img src="Assets/github.png" width=93.81 height=93.81> |
 
@@ -58,6 +58,16 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 </div>   
 
 <br style="line-height: 3em;">
+
+<div align="center">
+  
+## Currently working with:
+
+| *JavaScript*   | *Node.js* | *Flutter* | *MongoDB* |
+|----------|--------------|------------|---------|
+| <img src="Assets/git.png" width=93.81 height=93.81> | <img src="Assets/Visual Studio.jpeg" width=93.81 height=93.81> | <img src="Assets/vsCode.png" width=93.81 height=93.81> | <img src="Assets/github.png" width=93.81 height=93.81> |
+
+</div> 
 
 <div align="center">
 
