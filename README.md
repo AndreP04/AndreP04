@@ -93,10 +93,6 @@ Download my CV: [Andre Pretorius CV](https://github.com/AndreP04/AndreP04/blob/m
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AndreP04&,html&theme=algolia)
 
-<br style="line-height: 3em;">
-
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreP04&show=javascript,css,scss,html&theme=algolia)
-
 </div>
 
 <br style="line-height: 3em;">
