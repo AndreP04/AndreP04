@@ -27,9 +27,9 @@ Coding has always been a source of excitement for me, and I thrive on solving co
   
 ## Development Tools
 
-| *Git*   | *Visual Studio* | *VS Code* | *Github* |
-|----------|--------------|------------|---------|
-| <img src="Assets/git.png" width=93.81 height=93.81> | <img src="Assets/Visual Studio.jpeg" width=93.81 height=93.81> | <img src="Assets/vsCode.png" width=93.81 height=93.81> | <img src="Assets/github.png" width=93.81 height=93.81> |
+| *Postman*   | *Docker* |
+|----------|--------------|
+| <img src="Assets/postman.jpg" width=93.81 height=93.81> | <img src="Assets/docker.png" width=93.81 height=93.81> |
 
 </div> 
 
