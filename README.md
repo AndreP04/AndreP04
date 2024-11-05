@@ -15,9 +15,9 @@ Coding has always been a source of excitement for me, and I thrive on solving co
   
 ## Languages
 
-| *Python*   | *C# with .NET*   | *Golang* | *HTML*   | *CSS*  | *Java* | *SQL*        |
+| *Python*   | *C#*   | *JavaScript* | *HTML*   | *CSS*  | *Java* | *SQL* |
 |----------|------------|--------|----------|--------------|------------|------------|
-| <img src="Assets/python.png" width=93.81 height=93.81> | <img src="Assets/C-sharp.png" width=93.81 height=93.81> | <img src="Assets/Go-Logo_LightBlue.png" width=93.81 height=93.81> | <img src="Assets/html.png" width=93.81 height=93.81> | <img src="Assets/CSS.png" width=93.81 height=93.81> | <img src="Assets/Java.png" width=93.81 height=93.81> | <img src="Assets/SQL.png" width=93.81 height=93.81> |  
+| <img src="Assets/python.png" width=93.81 height=93.81> | <img src="Assets/C-sharp.png" width=93.81 height=93.81> | <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/html.png" width=93.81 height=93.81> | <img src="Assets/CSS.png" width=93.81 height=93.81> | <img src="Assets/Java.png" width=93.81 height=93.81> | <img src="Assets/SQL.png" width=93.81 height=93.81> |  
 
 </div>  
 
@@ -27,9 +27,9 @@ Coding has always been a source of excitement for me, and I thrive on solving co
   
 ## Development Tools
 
-| *Postman*   | *Docker* |
-|----------|--------------|
-| <img src="Assets/postman.jpg" width=93.81 height=93.81> | <img src="Assets/docker.png" width=93.81 height=93.81> |
+| *Postman*   | *Docker* | *MongoDB* |
+|----------|--------------|--------------|
+| <img src="Assets/postman.jpg" width=93.81 height=93.81> | <img src="Assets/docker.png" width=93.81 height=93.81> | <img src="Assets/Mongo.png" width=93.81 height=93.81> |
 
 </div> 
 
@@ -44,18 +44,6 @@ Coding has always been a source of excitement for me, and I thrive on solving co
 | <img src="Assets/dot-NET-FW.png" width=110 height=93.81> |
 
 </div>   
-
-<br style="line-height: 3em;">
-
-<div align="center">
-  
-## Currently working with:
-
-| *JavaScript*   | *Node.js* | *Flutter* | *MongoDB* |
-|----------|--------------|------------|---------|
-| <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/NodeJs.png" width=93.81 height=93.81> | <img src="Assets/Flutter.png" width=93.81 height=93.81> | <img src="Assets/Mongo.png" width=93.81 height=93.81> |
-
-</div> 
 
 <br style="line-height: 3em;">
 
