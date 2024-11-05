@@ -92,6 +92,5 @@ Download my CV: [Andre Pretorius CV](https://github.com/AndreP04/AndreP04/blob/m
 <p align="center">
   <a href="https://github.com/AndreP04"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40'></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andre-pretorius-680592285/"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_andrepretorius_/"><img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' alt='instagram' height='40'></a>&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/AndreP04"><img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg' alt='codewars' height='40'></a>&nbsp;&nbsp;
 </p>
