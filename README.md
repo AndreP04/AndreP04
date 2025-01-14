@@ -1,16 +1,3 @@
-
-
-<div align="center">
-
-## More About Me
-I am currently in my final year of studying a Bachelor of Science degree in Information Technology at the North West University. I have a strong passion for backend development, enjoying the challenge of building efficient and scalable systems.
-
-Coding has always been a source of excitement for me, and I thrive on solving complex problems and building robust applications. My enthusiasm for technology drives me to constantly learn and adapt to new challenges, ensuring that I stay at the forefront of the ever-evolving tech landscape.
-
-</div>  
-
-<br style="line-height: 3em;">
-
 <div align="center">
   
 ## Languages
