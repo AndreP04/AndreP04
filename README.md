@@ -18,31 +18,7 @@
 |----------|--------------|--------------|
 | <img src="Assets/postman.jpg" width=93.81 height=93.81> | <img src="Assets/docker.png" width=93.81 height=93.81> | <img src="Assets/Mongo.png" width=93.81 height=93.81> |
 
-</div> 
-
-<br style="line-height: 3em;">
-
-<div align="center">
-  
-## Frameworks
-
-| *.NET*   |
-|----------|
-| <img src="Assets/dot-NET-FW.png" width=110 height=93.81> |
-
-</div>   
-
-<br style="line-height: 3em;">
-
-<div align="center">
-
-## Contact Me
-
-<pre>
-  <code id="email-command">andrepret4@icloud.com</code>
-</pre>
-
-</div>
+</div>  
 
 <br style="line-height: 3em;">
 
@@ -79,5 +55,4 @@ Download my CV: [Andre Pretorius CV](https://github.com/AndreP04/AndreP04/blob/m
 <p align="center">
   <a href="https://github.com/AndreP04"><img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='github' height='40'></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andre-pretorius-680592285/"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'></a>&nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/AndreP04"><img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg' alt='codewars' height='40'></a>&nbsp;&nbsp;
 </p>
