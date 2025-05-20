@@ -12,20 +12,6 @@
 
 <div align="center">
 
-## My Portfolio and Resume
-
-Visit my portfolio website: https://andre-pretorius.netlify.app  
-
-Download my CV: [Andre Pretorius CV](https://github.com/AndreP04/AndreP04/blob/main/Assets/Andre%20Pretorius%20CV.pdf)  
-
-</div>
-
-<br style="line-height: 3em;">
-
-<div align="center">
-
-## Statistics
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreP04&show_icons=true&count_private=true,html&theme=algolia)
 
 <br style="line-height: 3em;">
