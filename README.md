@@ -2,9 +2,9 @@
   
 ## Languages
 
-| *Python*   | *C#*   | *JavaScript* | *HTML*   | *CSS*  | *Java* | *SQL* |
-|----------|------------|--------|----------|--------------|------------|------------|
-| <img src="Assets/python.png" width=93.81 height=93.81> | <img src="Assets/C-sharp.png" width=93.81 height=93.81> | <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/html.png" width=93.81 height=93.81> | <img src="Assets/CSS.png" width=93.81 height=93.81> | <img src="Assets/Java.png" width=93.81 height=93.81> | <img src="Assets/SQL.png" width=93.81 height=93.81> |  
+| *Python*   | *C#*   | *JavaScript* | *HTML*   | *CSS*  | 
+|----------|------------|--------|----------|--------------|
+| <img src="Assets/python.png" width=93.81 height=93.81> | <img src="Assets/C-sharp.png" width=93.81 height=93.81> | <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/html.png" width=93.81 height=93.81> | <img src="Assets/CSS.png" width=93.81 height=93.81> |
 
 </div>  
 
