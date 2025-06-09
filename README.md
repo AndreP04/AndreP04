@@ -16,12 +16,6 @@
 
 <br style="line-height: 3em;">
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/01db191b-6a31-42f0-aa92-2d72d6ea82e7" />
-</div>  
-
-<br style="line-height: 3em;">
-
 <p align="center">
   <a href="https://www.linkedin.com/in/andre-pretorius-680592285/"><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'></a>&nbsp;&nbsp;
 </p>
