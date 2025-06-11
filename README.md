@@ -1,10 +1,8 @@
 <div align="center">
   
-## Languages
+## 🔨 Development Tools 🔨
 
-| *NodeJS*   | *C#*   | *JavaScript* | *HTML*   | *CSS*  | 
-|----------|------------|--------|----------|--------------|
-| <img src="Assets/NodeJS.png" width=93.81 height=93.81> | <img src="Assets/C-sharp.png" width=93.81 height=93.81> | <img src="Assets/JavaScript.png" width=93.81 height=93.81> | <img src="Assets/html.png" width=93.81 height=93.81> | <img src="Assets/CSS.png" width=93.81 height=93.81> |
+<img src="Assets/NodeJs.png" width=93.81 height=93.81> <img src="Assets/C-sharp.png" width=93.81 height=93.81> <img src="Assets/JavaScript.png" width=93.81 height=93.81> <img src="Assets/html.png" width=93.81 height=93.81> <img src="Assets/CSS.png" width=93.81 height=93.81>
 
 </div>  
 
@@ -13,12 +11,6 @@
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreP04&show_icons=true&count_private=true,html&theme=algolia)
-
-<br style="line-height: 3em;">
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br style="line-height: 3em;">
 
