@@ -9,8 +9,9 @@
 <br style="line-height: 3em;">
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreP04&show_icons=true&count_private=true,html&theme=algolia)
+  
+![AndreP04's Stats](https://github-readme-stats.vercel.app/api?username=AndreP04&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![AndreP04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreP04&theme=algolia&hide_border=true)
 
 <br style="line-height: 3em;">
 
