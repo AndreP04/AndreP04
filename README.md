@@ -3,10 +3,12 @@
 # 👨‍💻 About Me:
 💻 I’m a Software Engineer who is passionate about development and always eager to learn and grow. <br>
 🎯 I’m currently working on a management system for students that educators use, and a website for a CrossFit Box.  <br>🌱 I’m currently learning C# and React.
+<br><br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andre-pretorius-680592285) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com)
+<br><br>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -23,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AndreP04&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
