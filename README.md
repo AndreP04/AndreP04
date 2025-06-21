@@ -5,7 +5,7 @@
 🎯 I’m currently working on a management system for students that educators use, and a website for a CrossFit Box.  <br>🌱 I’m currently learning C# and React.
 <br><br>
 
-# 🌐 Socials:
+# 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andre-pretorius-680592285) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com)
 <br><br>
