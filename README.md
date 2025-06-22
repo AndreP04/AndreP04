@@ -2,6 +2,8 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDc4ZWEwOHAzY3FkcDRnemR5NHNpMjZhNm5hNnJ4czRnNHdtam55MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
+<hr/>
+
 ###
 
 <h1 align="center">🔍More about me:</h1>
@@ -9,6 +11,7 @@
 ###
 
 <p align="center">🌱 I am currently learning TypeScript, React, and C#.<br>💻 I am currently working on a NodeJS application that allows educators to manage students' information efficiently.</p>
+<br/>
 
 ###
 
@@ -43,6 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
+<br/>
 
 ###
 
@@ -51,6 +55,7 @@
 </div>
 
 ###
+<br/>
 
 <h1 align="center">💬Let's connect:</h1>
 
@@ -64,5 +69,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<br/>
 
-###
+<hr/>
+
+<div align="center">
+  <p><em>"Failures, repeated failures, are finger posts on the road to achievement. One fails forward towards success." - C.S. Lewis<em/></p>
+</div>
