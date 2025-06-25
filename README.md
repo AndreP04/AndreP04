@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🌱 I am currently learning TypeScript, React, and C#.<br>💻 I am currently working on a NodeJS application that allows educators to manage students' information efficiently.</p>
+<p align="center">🌱 I am currently learning TypeScript and React.<br>💻 I am currently working on a NodeJS application that allows educators to manage students' information efficiently.</p>
 <br/>
 
 ###
