@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">👨‍💻I'm a passionate software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br><br>💻 I am currently working on a NodeJS application that allows educators to manage students' information more efficiently.<br>📖I am currently pursuing my AWS Cloud Practitioner Certification.</p>
+<p align="center">👨‍💻I'm a passionate software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br><br>💻 I am currently working on a NodeJS application that allows educators to manage students' information more efficiently.<br>📖I am also currently pursuing my AWS Cloud Practitioner Certification.</p>
 <br/>
 
 ###
