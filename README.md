@@ -15,6 +15,9 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndreP04&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 <h1 align="center">🛠️I code with:</h1>
 
 ###
