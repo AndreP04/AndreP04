@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👨‍💻 I'm a passionate backend software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br>📖 I am currently pursuing my AWS Cloud Practitioner Certification.
+👨‍💻 I'm a passionate backend software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br>🔨 I am currently building EnvVault, a fullstack application that enables developers to securely manage and access environment files across devices.<br>📖 I am also currently pursuing my AWS Cloud Practitioner Certification.
 
 ---
 
