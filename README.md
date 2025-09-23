@@ -28,11 +28,6 @@
 
 ---
 
-### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=AndreP04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 🌐 Get in touch with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-pretorius-680592285) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com) 
