@@ -1,6 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
+📍 I am based in Johannesburg, South Africa  <br>
 👨‍💻 I'm a passionate backend software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br>🔨 I am currently building EnvVault, a fullstack application that enables developers to securely manage and access environment files across devices.
 
 ---
@@ -29,8 +30,10 @@
 ---
 
 ## 🌐 Get in touch with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-pretorius-680592285) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aj-p.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-pretorius-680592285)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AndrePret04/)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
