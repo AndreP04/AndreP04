@@ -26,6 +26,7 @@
 
 # 📊 My Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=AndreP04&theme=dark&hide_border=false)<br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreP04&theme=github-dark)
 
 ---
 
