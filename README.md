@@ -24,12 +24,6 @@
 
 ---
 
-# 📊 My Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AndreP04&theme=dark&hide_border=false)<br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreP04&theme=github-dark)
-
----
-
 ## 🌐 Get in touch with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrepret4@icloud.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aj-p.co.za)
