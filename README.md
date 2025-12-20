@@ -1,5 +1,9 @@
 <div align="center">
 
+# 💫 About Me:
+📍 I am based in Johannesburg, South Africa  <br>
+👨‍💻 I'm a passionate fullstack software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.<br>🔨 I am currently building EnvVault, a fullstack application that enables developers to securely manage and access environment files across devices.
+
 ---
 
 # 💻 Tech Stack:
