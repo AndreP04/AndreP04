@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 📍 I am based in Johannesburg, South Africa  <br>
-👨‍💻 I'm a passionate fullstack software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.
+👨‍💻 I'm a passionate full stack software engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.
 
 ---
 
