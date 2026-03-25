@@ -1,9 +1,5 @@
 <div align="center">
 
-# 💫 About Me:
-📍 I am based in Johannesburg, South Africa  <br>
-👨‍💻 I'm a passionate full stack engineer based in South Africa, driven by a deep desire to learn, and create meaningful software.
-
 ---
 
 # 💻 Tech Stack:
